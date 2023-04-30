@@ -1101,28 +1101,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tCUkMnNE2g .carousel {
-    min-height: 400px;
+    min-height: 1000px;
   }
   .cid-tCUkMnNE2g .carousel img {
-    max-height: 400px;
+    max-height: 1000px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-tCUkMnNE2g .carousel {
-    min-height: 260px;
+    min-height: 650px;
   }
   .cid-tCUkMnNE2g .carousel img {
-    max-height: 260px;
+    max-height: 650px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-tCUkMnNE2g .carousel {
-    min-height: 220px;
+    min-height: 550px;
   }
   .cid-tCUkMnNE2g .carousel img {
-    max-height: 220px;
+    max-height: 550px;
     object-fit: contain;
   }
   .cid-tCUkMnNE2g .container .carousel-control {
@@ -1638,6 +1638,10 @@ a {
 }
 .cid-tCUj2d8eZ9 .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
+}
+.cid-tCUj2d8eZ9 .card-title,
+.cid-tCUj2d8eZ9 .social-row {
+  color: #ee5330;
 }
 .cid-tCUk8JzAEV {
   padding-top: 75px;
